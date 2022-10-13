@@ -2,7 +2,8 @@
 
 ## Database Description
 My PDA is a database to organize flight information for airway control and general information regarding flights. flown_by, uses, and has_booking relations do not need to be added to the sql database as their keys are already a part of both relational sets. All tables have 3000 rows, except for Passenger, which has 30,000 rows.
-![alt text](http://url/to/aircontrol_ER_diagram.png)
+
+![alt text](https://github.com/BrianMillerS/SQL_database_project/blob/main/aircontrol_ER_diagram.png)
 
 <br/><br/>
 ## File Descriptions
